@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Jenkins
+Upstream-Contact: http://jenkins-ci.org/
+Source: https://github.com/jenkinsci/jenkins
+
+Files: *
+Copyright: 2004-, Kohsuke Kawaguchi <kk@kohsuke.org>, Sun Microsystems, Inc., and a number of other of contributors
+License: MIT/X License, GPL/CDDL, ASL2
